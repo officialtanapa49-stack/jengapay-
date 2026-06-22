@@ -1,0 +1,8 @@
+# pi.toml Configuration for JPT Token
+
+[[CURRENCIES]]
+code = "JPT"
+issuer = "GACLIJDIBJQQZHDVLHH6GMEAAOR7MHFX4XICVCVEWTCYIOCSBLI72BK3"
+name = "JengaPay Token"
+desc = "Tokeni rasmi kwa ajili ya malipo ya huduma za ujenzi na usalama kupitia JengaPay."
+image = "https://i.postimg.cc/yN5tS8qD/file-000000002d9071f48e01dcae77e2cbf8.png"
